@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+execute:
+  freeze: auto
 knitr:
   opts_knit:
     verbose: false
