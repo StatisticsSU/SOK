@@ -1,0 +1,30 @@
+---
+title: "Föreläsningar för Statistisk översiktskurs, 7.5 hp"
+format: html
+---
+
+<img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
+
+> This page contains a short description of the contents, reading instructions and additional material for each lecture.
+
+The reading suggestions below are section numbers from the course book Wackerley, Mendenhall and Scheaffer (2021). [Mathematical Statistics with Applications](misc/larry.png), 7th edition, Cengage.
+
+**Lecture 1 - Lecture topic 1**\
+Read: [Slides](/misc/larry.png) \
+Code: \
+Data: \
+
+**Lecture 2 - Lecture topic 2**\
+Read: [Slides](/misc/larry.png) \
+Code: \
+Data: \
+
+**Lecture 3 - Lecture topic 3**\
+Read: [Slides](/misc/larry.png) \
+Code: \
+Data: \
+
+
+
+
+

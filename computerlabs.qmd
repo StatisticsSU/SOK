@@ -1,0 +1,15 @@
+---
+title: "Datorövningar för Statistisk översiktskurs, 7.5 hp"
+format: html
+---
+
+<img src="misc/banner_image3.png" alt="AI generated banner image" class="center" width="100%"/>
+
+
+**Computer lab 1 **\
+Material: [html](misc/larry.png)
+
+**Computer lab 2 **\
+Material: [html](misc/larry.png)
+
+

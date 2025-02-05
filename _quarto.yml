@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+knitr:
+  opts_knit:
+    verbose: false
+  #output-dir: docs
+
+website:
+  title: "SÖK"
+  favicon: /misc/favicons/favicon.ico
+  navbar:
+    logo: /misc/SU_logo_small.png
+    background: primary
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: lectures.qmd
+        text: Lectures
+      - href: exercises.qmd
+        text: Exercises
+      - href: computerlabs.qmd
+        text: Computer Labs
+      - href: homeassignment.qmd
+        text: Inlämningsuppgifter
+        
+  page-footer:
+    left:
+      - text: "Department of Statistics - Stockholm University"
+        href: https://www.su.se/statistiska-institutionen/
+    center:
+      - text: "Statistisk översiktskurs, 7.5 hp"
+        #href: stealourcourse.qmd
+    right:
+      - icon: github
+        href: https://github.com/StatisticsSU/SOK
+        aria-label: Quarto GitHub
+format:
+  html:
+    theme:
+      light: lumen
+      dark: superhero # litera, lumen, superhero, united
+    css: styles.css
+    toc: true
+    toc-title: Sections
+    #monobackgroundcolor: #c3d0e6
+callout-appearance: default
+
+
+
+

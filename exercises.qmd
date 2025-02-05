@@ -1,0 +1,19 @@
+---
+title: "Övningar för Statistisk översiktskurs, 7.5 hp"
+format: html
+---
+
+<img src="misc/banner_image2.png" alt="AI generated banner image" class="center" width="100%"/>
+
+> På kursens räkneövningar kommer några av övningar nedan att tas upp. 
+
+The exercise numbers below uses the numbering in the course book: [KURSBOK](misc/larry.png)
+
+**Övning 1 - Topic 1**\
+Problems: Book 1.1, 1.2, ...
+
+**Övning 2 - Topic 2**\
+Problems: Book 2.1, 2.2, ...
+
+**Övning 3 - Topic 3**\
+Problems: Book 3.1, 3.2, ...
