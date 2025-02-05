@@ -9,7 +9,7 @@ format: html
 
 Kursens mål är
 
-- mål 1
+- mål 1 (test)
 - mål 2
 
 ### Innehåll
