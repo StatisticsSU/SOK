@@ -17,6 +17,10 @@ Kursens mål är
 - Innehåll 1
 - Innehåll 2
 - Innehåll 3
+- Content 1
+- Content 2
+
+
 
 ### Kurslitteratur
 
@@ -32,7 +36,7 @@ Kursen består av [föreläsningar](lectures.qmd), [räkneövningar](exercises.q
 Kursen examineras genom
 
 -   salstentamen (betyg A-F)
--   [inlämningsupgifter](homeassignment.qmd) (betyg godkänd/underkänd).
+-   [inlämningsupgift](homeassignment.qmd) (betyg godkänd/underkänd).
 
 ### Schema
 
@@ -51,6 +55,6 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 ![](/misc/female.png){width="33%"}\
 TBD<br>Övningar<br>
 
-![](/misc/female.png){width="33%"}\
+![](/misc/male.png){width="33%"}\
 TBD<br>Datorövningar<br>
 :::
