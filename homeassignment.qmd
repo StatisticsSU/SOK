@@ -7,8 +7,6 @@ format: html
 
 > Kursen har två obligatoriska inlämnningsuppgifter
 
-**Inlämningsuppgift 1 **\
+**Inlämningsuppgift**\
 Material: [html](misc/larry.png)
 
-**Inlämningsuppgift 2 **\
-Material: [html](misc/larry.png)
