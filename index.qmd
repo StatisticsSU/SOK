@@ -12,6 +12,7 @@ Kursens mål är
 
 - mål 1
 - mål 2
+- mål 3
 
 ### Innehåll
 
