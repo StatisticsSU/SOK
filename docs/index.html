@@ -2,12 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
+<<<<<<< HEAD
 <meta name="generator" content="quarto-1.4.555">
+=======
+<meta name="generator" content="quarto-1.5.57">
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SÖK - Statistisk översiktskurs, 7.5 hp</title>
+<title>Statistisk översiktskurs, 7.5 hp – SÖK</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,13 +93,14 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
+<<<<<<< HEAD
 <span class="menu-text">Overview</span></a>
   </li>  
   <li class="nav-item">
@@ -109,6 +114,21 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./computerlabs.html"> 
 <span class="menu-text">Computer Labs</span></a>
+=======
+<span class="menu-text">Startsida</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./lectures.html"> 
+<span class="menu-text">Föreläsningar</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./exercises.html"> 
+<span class="menu-text">Övningar</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./computerlabs.html"> 
+<span class="menu-text">Datorövningar</span></a>
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./homeassignment.html"> 
@@ -116,7 +136,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
+<<<<<<< HEAD
           <div class="quarto-navbar-tools">
+=======
+            <div class="quarto-navbar-tools">
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -170,7 +194,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="mål">Mål</h3>
 <p>Kursens mål är</p>
 <ul>
-<li>mål 1</li>
+<li>mål 1 (test)</li>
 <li>mål 2</li>
 </ul>
 </section>
@@ -225,13 +249,21 @@ ul.task-list li input[type="checkbox"] {
 <a href="https://www.su.se/profiles/ulh3291-1.365684">Ulf Högnäs</a><br>Kursanvarig och föreläsare<br>Universitetsadjunkt</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<<<<<<< HEAD
 <p><img src=".\misc/female.png" class="img-fluid" style="width:33.0%"><br>
+=======
+<p><img src="./misc/female.png" class="img-fluid" style="width:33.0%"><br>
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
 TBD<br>Övningar<br></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<<<<<<< HEAD
 <p><img src=".\misc/male.png" class="img-fluid" style="width:33.0%"><br>
+=======
+<p><img src="./misc/female.png" class="img-fluid" style="width:33.0%"><br>
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
 TBD<br>Datorövningar<br></p>
 </div>
 </div>
@@ -420,18 +452,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -463,7 +484,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+<<<<<<< HEAD
+=======
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -471,7 +517,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
+<<<<<<< HEAD
  	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+=======
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+>>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

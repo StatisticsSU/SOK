@@ -16,13 +16,13 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: Overview
+        text: Startsida
       - href: lectures.qmd
-        text: Lectures
+        text: Föreläsningar
       - href: exercises.qmd
-        text: Exercises
+        text: Övningar
       - href: computerlabs.qmd
-        text: Computer Labs
+        text: Datorövningar
       - href: homeassignment.qmd
         text: Inlämningsuppgifter
         
