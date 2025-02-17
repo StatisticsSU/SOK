@@ -12,4 +12,8 @@ Material: [html](misc/larry.png)
 **Computer lab 2 **\
 Material: [html](misc/larry.png)
 
+**Computer lab 3 **\
+
+**Computer lab 4 **\
+
 
