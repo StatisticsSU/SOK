@@ -6,6 +6,9 @@ format: html
 
 <img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
 
+### Uppdatering
+Sidan kommer att uppdateras innan kursstart 250324
+
 ### Mål
 
 Kursens mål är
@@ -20,8 +23,7 @@ Kursens mål är
 - Innehåll 1
 - Innehåll 2
 - Innehåll 3
-- Content 1
-- Content 2
+
 
 
 
@@ -55,7 +57,12 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 <img src="/misc/male.png" width="33%"/>\
 [Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Universitetsadjunkt
 
-![](/misc/female.png){width="33%"}\
+
+<img src="/misc/male.png" width="33%"/>\
+[Anders Fredriksson]<br>Adjunkt
+
+
+![](/misc/male.png){width="33%"}\
 TBD<br>Övningar<br>
 
 ![](/misc/male.png){width="33%"}\

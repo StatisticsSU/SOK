@@ -1,11 +1,11 @@
 ---
-title: "Inlämnningsuppgifter för Statistisk översiktskurs, 7.5 hp"
+title: "Inlämnningsuppgift för Statistisk översiktskurs, 7.5 hp"
 format: html
 ---
 
 <img src="misc/banner_image4.png" alt="AI generated banner image" class="center" width="100%"/>
 
-> Kursen har två obligatoriska inlämnningsuppgifter
+> Kursen har en obligatorisk inlämnningsuppgift
 
 **Inlämningsuppgift**\
 Material: [html](misc/larry.png)
