@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Statistisk översiktskurs, 7.5 hp"
 format: html
@@ -13,7 +12,7 @@ Sidan kommer att uppdateras innan kursstart 250324
 
 Kursens mål är
 
-- mål 1
+- mål 1 (test 25/2-2025)
 - mål 2
 - mål 3
 - mål 4
@@ -67,65 +66,4 @@ TBD<br>Övningar<br>
 
 ![](/misc/male.png){width="33%"}\
 TBD<br>Datorövningar<br>
-=======
----
-title: "Statistisk översiktskurs, 7.5 hp"
-format: html
----
-
-<img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
-
-### Mål
-
-Kursens mål är
-
-- mål 1
-- mål 2
-
-### Innehåll
-
-- Innehåll 1
-- Innehåll 2
-- Innehåll 3
-- Content 1
-- Content 2
-
-
-
-### Kurslitteratur
-
--   Författare1 (XXXX). [Boktitel 1](misc/larry.png), Xte upplagan, förlag1.
--   Författare2 (XXXX). [Boktitel 2](misc/larry.png), Xte upplagan, förlag2.
-
-### Kursstruktur
-
-Kursen består av [föreläsningar](lectures.qmd), [räkneövningar](exercises.qmd) och [datorövningar](computerlabs.qmd). 
-
-### Examination
-
-Kursen examineras genom
-
--   salstentamen (betyg A-F)
--   [inlämningsupgift](homeassignment.qmd) (betyg godkänd/underkänd).
-
-### Schema
-
-Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.html?tab=3&object=cevt_39063_VT2025&startDate=20250222&endDate=20250913&type=courseevent&h=t). 
-
-### Formelsamlingar
-
-### Interaktivt material
-
-### Lärare
-
-::: {layout="[ [1,1],[1,1] ]"}
-<img src="/misc/male.png" width="33%"/>\
-[Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Universitetsadjunkt
-
-![](/misc/female.png){width="33%"}\
-TBD<br>Övningar<br>
-
-![](/misc/male.png){width="33%"}\
-TBD<br>Datorövningar<br>
->>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
 :::
