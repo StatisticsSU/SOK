@@ -1,0 +1,199 @@
+Country_Area,Region,Landlocked
+Afghanistan,S_C_Asia,1
+Albania,EUR_ASIA,0
+Algeria,MENA,0
+Andorra,EUR_ASIA,1
+Angola,SSA,0
+Antigua and Barbuda,AMERICAS,0
+Argentina,AMERICAS,0
+Armenia,EUR_ASIA,1
+Australia,E_ASIA_PAC,0
+Austria,EUR_ASIA,1
+Azerbaijan,EUR_ASIA,1
+Bahrain,MENA,0
+Bangladesh,S_C_Asia,0
+Barbados,AMERICAS,0
+Belarus,EUR_ASIA,1
+Belgium,EUR_ASIA,0
+Belize,AMERICAS,0
+Benin,SSA,0
+Bhutan,S_C_Asia,1
+Bolivia,AMERICAS,1
+Bosnia and Herzegovina,EUR_ASIA,0
+Botswana,SSA,1
+Brazil,AMERICAS,0
+Brunei,E_ASIA_PAC,0
+Bulgaria,EUR_ASIA,0
+Burkina Faso,SSA,1
+Burma,E_ASIA_PAC,0
+Burundi,SSA,1
+Cabo Verde,SSA,0
+Cambodia,E_ASIA_PAC,0
+Cameroon,SSA,0
+Canada,AMERICAS,0
+Central African Republic,SSA,1
+Chad,SSA,1
+Chile,AMERICAS,0
+China,E_ASIA_PAC,0
+Colombia,AMERICAS,0
+Comoros,SSA,0
+Cook Islands,E_ASIA_PAC,0
+Costa Rica,AMERICAS,0
+Côte d’Ivoire,SSA,0
+Croatia,EUR_ASIA,0
+Cuba,AMERICAS,0
+Cyprus,EUR_ASIA,0
+Czechia,EUR_ASIA,1
+Democratic Republic of the Congo,SSA,0
+Denmark,EUR_ASIA,0
+Djibouti,SSA,0
+Dominica,AMERICAS,0
+Dominican Republic,AMERICAS,0
+Ecuador,AMERICAS,0
+Egypt,MENA,0
+El Salvador,AMERICAS,0
+Equatorial Guinea,SSA,0
+Eritrea,SSA,0
+Estonia,EUR_ASIA,0
+Eswatini,SSA,1
+Ethiopia,SSA,1
+Fiji,E_ASIA_PAC,0
+Finland,EUR_ASIA,0
+France,EUR_ASIA,0
+Gabon,SSA,0
+Georgia,EUR_ASIA,0
+Germany,EUR_ASIA,0
+Ghana,SSA,0
+Greece,EUR_ASIA,0
+Grenada,AMERICAS,0
+Guatemala,AMERICAS,0
+Guinea,SSA,0
+Guinea-Bissau,SSA,0
+Guyana,AMERICAS,0
+Haiti,AMERICAS,0
+Holy See,EUR_ASIA,1
+Honduras,AMERICAS,0
+Hungary,EUR_ASIA,1
+Iceland,EUR_ASIA,0
+India,S_C_Asia,0
+Indonesia,E_ASIA_PAC,0
+Iran,MENA,0
+Iraq,MENA,0
+Ireland,EUR_ASIA,0
+Israel,MENA,0
+Italy,EUR_ASIA,0
+Jamaica,AMERICAS,0
+Japan,E_ASIA_PAC,0
+Jordan,MENA,0
+Kazakhstan,S_C_Asia,1
+Kenya,SSA,0
+Kiribati,E_ASIA_PAC,0
+Kosovo,EUR_ASIA,0
+Kuwait,MENA,0
+Kyrgyzstan,S_C_Asia,1
+Laos,E_ASIA_PAC,1
+Latvia,EUR_ASIA,0
+Lebanon,MENA,0
+Lesotho,SSA,1
+Liberia,SSA,0
+Libya,MENA,0
+Liechtenstein,EUR_ASIA,1
+Lithuania,EUR_ASIA,0
+Luxembourg,EUR_ASIA,1
+Madagascar,SSA,0
+Malawi,SSA,1
+Malaysia,E_ASIA_PAC,0
+Maldives,S_C_Asia,0
+Mali,SSA,1
+Malta,EUR_ASIA,0
+Marshall Islands,E_ASIA_PAC,0
+Mauritania,SSA,0
+Mauritius,SSA,0
+Mexico,AMERICAS,0
+Micronesia,E_ASIA_PAC,0
+Moldova,EUR_ASIA,1
+Monaco,EUR_ASIA,0
+Mongolia,E_ASIA_PAC,1
+Montenegro,EUR_ASIA,0
+Morocco,MENA,0
+Mozambique,SSA,0
+Namibia,SSA,0
+Nauru,E_ASIA_PAC,0
+Nepal,S_C_Asia,1
+Netherlands,EUR_ASIA,0
+New Zealand,E_ASIA_PAC,0
+Nicaragua,AMERICAS,0
+Niger,SSA,1
+Nigeria,SSA,0
+Niue,E_ASIA_PAC,0
+North Korea,E_ASIA_PAC,0
+North Macedonia,EUR_ASIA,1
+Norway,EUR_ASIA,0
+Oman,MENA,0
+Pakistan,S_C_Asia,0
+Palau,E_ASIA_PAC,0
+Palestinian Territories,MENA,0
+Panama,AMERICAS,0
+Papua New Guinea,E_ASIA_PAC,0
+Paraguay,AMERICAS,1
+Peru,AMERICAS,0
+Philippines,E_ASIA_PAC,0
+Poland,EUR_ASIA,0
+Portugal,EUR_ASIA,0
+Qatar,MENA,0
+Republic of the Congo,SSA,0
+Romania,EUR_ASIA,0
+Russia,EUR_ASIA,0
+Rwanda,SSA,1
+Saint Kitts and Nevis,AMERICAS,0
+Saint Lucia,AMERICAS,0
+Saint Vincent and the Grenadines,AMERICAS,0
+Samoa,E_ASIA_PAC,0
+San Marino,EUR_ASIA,1
+Sao Tome and Principe,SSA,0
+Saudi Arabia,MENA,0
+Senegal,SSA,0
+Serbia,EUR_ASIA,1
+Seychelles,SSA,0
+Sierra Leone,SSA,0
+Singapore,E_ASIA_PAC,0
+Slovakia,EUR_ASIA,1
+Slovenia,EUR_ASIA,0
+Solomon Islands,E_ASIA_PAC,0
+Somalia,SSA,0
+South Africa,SSA,0
+South Korea,E_ASIA_PAC,0
+South Sudan,SSA,1
+Spain,EUR_ASIA,0
+Sri Lanka,S_C_Asia,0
+Sudan,SSA,0
+Suriname,AMERICAS,0
+Sweden,EUR_ASIA,0
+Switzerland,EUR_ASIA,1
+Syria,MENA,0
+Taiwan,E_ASIA_PAC,0
+Tajikistan,S_C_Asia,1
+Tanzania,SSA,0
+Thailand,E_ASIA_PAC,0
+The Bahamas,AMERICAS,0
+The Gambia,SSA,0
+Timor-Leste,E_ASIA_PAC,0
+Togo,SSA,0
+Tonga,E_ASIA_PAC,0
+Trinidad and Tobago,AMERICAS,0
+Tunisia,MENA,0
+Turkey (Türkiye),EUR_ASIA,0
+Turkmenistan,S_C_Asia,1
+Tuvalu,E_ASIA_PAC,0
+Uganda,SSA,1
+Ukraine,EUR_ASIA,0
+United Arab Emirates,MENA,0
+United Kingdom,EUR_ASIA,0
+Uruguay,AMERICAS,0
+Uzbekistan,S_C_Asia,1
+Vanuatu,E_ASIA_PAC,0
+Venezuela,AMERICAS,0
+Vietnam,E_ASIA_PAC,0
+Yemen,MENA,0
+Zambia,SSA,1
+Zimbabwe,SSA,1
