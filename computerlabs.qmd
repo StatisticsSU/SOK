@@ -10,7 +10,7 @@ format: html
 Material: [html](misc/larry.png)
 
 **Computer lab 2 **\
-Material: [html](misc/larry.png)
+Datafilen landlocked: [html](misc/landlocked.txt)
 
 **Computer lab 3 **\
 
