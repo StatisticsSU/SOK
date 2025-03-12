@@ -60,10 +60,4 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 <img src="/misc/male.png" width="33%"/>\
 [Anders Fredriksson]<br>Adjunkt
 
-
-![](/misc/male.png){width="33%"}\
-TBD<br>Övningar<br>
-
-![](/misc/male.png){width="33%"}\
-TBD<br>Datorövningar<br>
 :::
