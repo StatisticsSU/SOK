@@ -11,17 +11,17 @@ Sidan kommer att uppdateras innan kursstart 250324
 ### Mål
 
 KURSENS LÄRANDEMÅL OCH FÖRVÄNTADE STUDIERESULTAT
-För godkänt resultat ska studenten kunna:
+För godkänt resultat ska studenten kunna:\\
 
-I. förstå och redogöra för enklare statistiska begrepp och metoder
-II. tolka och kritiskt granska statistiska resultat
-III. presentera kvantitativa data på lämpliga sätt
+I. förstå och redogöra för enklare statistiska begrepp och metoder\\
+II. tolka och kritiskt granska statistiska resultat\\
+III. presentera kvantitativa data på lämpliga sätt\\
 IV. göra beräkningar för att lösa enklare statistiska problem
 
 ### Innehåll
 
-Kursen består av två kursdelar (moment), vilka examineras var för sig:
-Prov 1. Statistisk översiktskurs, individuell salstentamen, 4,5 högskolepoäng
+Kursen består av två kursdelar (moment), vilka examineras var för sig:\\
+Prov 1. Statistisk översiktskurs, individuell salstentamen, 4,5 högskolepoäng\\
 Prov 2. Statistisk översiktskurs, inlämningsuppgift, 3 högskolepoäng 
 
 ### Kurslitteratur
