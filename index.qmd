@@ -52,7 +52,7 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 ### Lärare
 
 ::: {layout="[ [1,1],[1,1] ]"}
-<img src="/misc/male.png" width="33%"/>\
+<img src="/misc/ulf1.jpg" width="33%"/>\
 [Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Universitetsadjunkt
 
 
