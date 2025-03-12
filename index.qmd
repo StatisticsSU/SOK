@@ -10,21 +10,19 @@ Sidan kommer att uppdateras innan kursstart 250324
 
 ### Mål
 
-Kursens mål är
+KURSENS LÄRANDEMÅL OCH FÖRVÄNTADE STUDIERESULTAT
+För godkänt resultat ska studenten kunna:
 
-- mål 1 (test 25/2-2025)
-- mål 2 (test 7/3-2025)
-- mål 3 (test 7/3-2025)
-- mål 4
+I. förstå och redogöra för enklare statistiska begrepp och metoder
+II. tolka och kritiskt granska statistiska resultat
+III. presentera kvantitativa data på lämpliga sätt
+IV. göra beräkningar för att lösa enklare statistiska problem
 
 ### Innehåll
 
-- Innehåll 1
-- Innehåll 2
-- Innehåll 3
-
-
-
+Kursen består av två kursdelar (moment), vilka examineras var för sig:
+Prov 1. Statistisk översiktskurs, individuell salstentamen, 4,5 högskolepoäng
+Prov 2. Statistisk översiktskurs, inlämningsuppgift, 3 högskolepoäng 
 
 ### Kurslitteratur
 
