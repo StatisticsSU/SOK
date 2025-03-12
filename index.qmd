@@ -28,8 +28,7 @@ Kursens mål är
 
 ### Kurslitteratur
 
--   Författare1 (XXXX). [Boktitel 1](misc/larry.png), Xte upplagan, förlag1.
--   Författare2 (XXXX). [Boktitel 2](misc/larry.png), Xte upplagan, förlag2.
+Kursbok: Çetinkaya-Rundel, M., & Hardin, J. (2024). Introduction to Modern Statistics (IMS). 2:a upplagan. Elektronisk resurs från OpenIntro. https://openintro-ims.netlify.app
 
 ### Kursstruktur
 
