@@ -14,13 +14,13 @@ KURSENS LÄRANDEMÅL OCH FÖRVÄNTADE STUDIERESULTAT
 
 För godkänt resultat ska studenten kunna:
 
-I. förstå och redogöra för enklare statistiska begrepp och metoder
+1. förstå och redogöra för enklare statistiska begrepp och metoder
 
-II. tolka och kritiskt granska statistiska resultat
+2. tolka och kritiskt granska statistiska resultat
 
-III. presentera kvantitativa data på lämpliga sätt
+3. presentera kvantitativa data på lämpliga sätt
 
-IV. göra beräkningar för att lösa enklare statistiska problem
+4. göra beräkningar för att lösa enklare statistiska problem
 
 ### Innehåll
 
