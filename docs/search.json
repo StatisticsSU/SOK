@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistisk översiktskurs, 7.5 hp",
-    "section": "",
-<<<<<<< HEAD
-    "text": "Mål\nKursens mål är\n\nmål 1\nmål 2\n\n\n\nInnehåll\n\nInnehåll 1\nInnehåll 2\nInnehåll 3\nContent 1\nContent 2\n\n\n\nKurslitteratur\n\nFörfattare1 (XXXX). Boktitel 1, Xte upplagan, förlag1.\nFörfattare2 (XXXX). Boktitel 2, Xte upplagan, förlag2.\n\n\n\nKursstruktur\nKursen består av föreläsningar, räkneövningar och datorövningar.\n\n\nExamination\nKursen examineras genom\n\nsalstentamen (betyg A-F)\ninlämningsupgift (betyg godkänd/underkänd).\n\n\n\nSchema\nKursens schema finns på TimeEdit.\n\n\nFormelsamlingar\n\n\nInteraktivt material\n\n\nLärare\n\n\n\n\n\n\n\nUlf HögnäsKursanvarig och föreläsareUniversitetsadjunkt\n\n\n\nTBDÖvningar\n\n\n\n\n\nTBDDatorövningar"
-=======
-    "text": "Mål\nKursens mål är\n\nmål 1 (test)\nmål 2\n\n\n\nInnehåll\n\nInnehåll 1\nInnehåll 2\nInnehåll 3\n\n\n\nKurslitteratur\n\nFörfattare1 (XXXX). Boktitel 1, Xte upplagan, förlag1.\nFörfattare2 (XXXX). Boktitel 2, Xte upplagan, förlag2.\n\n\n\nKursstruktur\nKursen består av föreläsningar, räkneövningar och datorövningar.\n\n\nExamination\nKursen examineras genom\n\nsalstentamen (betyg A-F)\ninlämningsupgifter (betyg godkänd/underkänd).\n\n\n\nSchema\nKursens schema finns på TimeEdit.\n\n\nFormelsamlingar\n\n\nInteraktivt material\n\n\nLärare\n\n\n\n\n\n\n\nUlf HögnäsKursanvarig och föreläsareUniversitetsadjunkt\n\n\n\nTBDÖvningar\n\n\n\n\n\nTBDDatorövningar"
->>>>>>> 29b29a5b23427bac75be5a56315a739af0af385f
-  },
-  {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Föreläsningar för Statistisk översiktskurs, 7.5 hp",
@@ -18,11 +7,11 @@
     "text": "This page contains a short description of the contents, reading instructions and additional material for each lecture.\n\nThe reading suggestions below are section numbers from the course book Wackerley, Mendenhall and Scheaffer (2021). Mathematical Statistics with Applications, 7th edition, Cengage.\nLecture 1 - Lecture topic 1\nRead: Slides\nCode:\nData:\n\nLecture 2 - Lecture topic 2\nRead: Slides\nCode:\nData:\n\nLecture 3 - Lecture topic 3\nRead: Slides\nCode:\nData:"
   },
   {
-    "objectID": "computerlabs.html",
-    "href": "computerlabs.html",
-    "title": "Datorövningar för Statistisk översiktskurs, 7.5 hp",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistisk översiktskurs, 7.5 hp",
     "section": "",
-    "text": "Computer lab 1 \nMaterial: html\nComputer lab 2 \nMaterial: html"
+    "text": "Uppdatering\nSidan kommer att uppdateras innan kursstart 250324\n\n\nMål\nKURSENS LÄRANDEMÅL OCH FÖRVÄNTADE STUDIERESULTAT\nFör godkänt resultat ska studenten kunna:\n\nförstå och redogöra för enklare statistiska begrepp och metoder\ntolka och kritiskt granska statistiska resultat\npresentera kvantitativa data på lämpliga sätt\ngöra beräkningar för att lösa enklare statistiska problem\n\n\n\nInnehåll\nEnligt gällande kursplan ska kursen ge en introduktion till statistik och dess roll och nytta i det datadrivna samhället. Kursens målsättning är att ge en orientering om olika typer av datakällor, förståelse för möjligheter och begränsningar med dataanalys, kunskap för att kritiskt kunna läsa och utvärdera statistiska resultat samt verktyg för att kunna göra enklare deskription av kvantitativa data. Översiktligt behandlas deskriptiv statistik, datainsamling, datatyper, datakvalitet, tolkning av sannolikhet och osäkerhet. Därefter följer inferens, med hypotesprövning, konfidensintervall, regression, prediktion, samt korrelation och kausalitet. Tidsserier diskuteras också översiktligt. Mot slutet av kursen behandlas machine learning och AI och kopplingen mellan dessa områden och statistik, och därtill kritisk granskning\n\n\nKurslitteratur\nKursbok: Çetinkaya-Rundel, M., & Hardin, J. (2024). Introduction to Modern Statistics (IMS). 2:a upplagan. Elektronisk resurs från OpenIntro. https://openintro-ims.netlify.app\n\n\nKursstruktur\nKursen består av föreläsningar, räkneövningar och datorövningar.\n\n\nExamination\nKursen består av två kursdelar (moment), vilka examineras var för sig:\nProv 1. Statistisk översiktskurs, individuell salstentamen, 4,5 högskolepoäng\nProv 2. Statistisk översiktskurs, inlämningsuppgift, 3 högskolepoäng\n\n\nSchema\nKursens schema finns på TimeEdit.\n\n\nFormelsamlingar\n\n\nInteraktivt material\n\n\nLärare\n\n\n\n\n\n\n\nUlf HögnäsKursanvarig och föreläsareUniversitetsadjunkt\n\n\n\n[Anders Fredriksson]Adjunkt"
   },
   {
     "objectID": "exercises.html",
@@ -32,10 +21,17 @@
     "text": "På kursens räkneövningar kommer några av övningar nedan att tas upp.\n\nThe exercise numbers below uses the numbering in the course book: KURSBOK\nÖvning 1 - Topic 1\nProblems: Book 1.1, 1.2, …\nÖvning 2 - Topic 2\nProblems: Book 2.1, 2.2, …\nÖvning 3 - Topic 3\nProblems: Book 3.1, 3.2, …"
   },
   {
+    "objectID": "computerlabs.html",
+    "href": "computerlabs.html",
+    "title": "Datorövningar för Statistisk översiktskurs, 7.5 hp",
+    "section": "",
+    "text": "Computer lab 1 \nMaterial: html\nComputer lab 2 \nDatafilen landlocked: html\nComputer lab 3 \n\nComputer lab 4"
+  },
+  {
     "objectID": "homeassignment.html",
     "href": "homeassignment.html",
-    "title": "Inlämnningsuppgifter för Statistisk översiktskurs, 7.5 hp",
+    "title": "Inlämnningsuppgift för Statistisk översiktskurs, 7.5 hp",
     "section": "",
-    "text": "Kursen har två obligatoriska inlämnningsuppgifter\n\nInlämningsuppgift 1 \nMaterial: html\nInlämningsuppgift 2 \nMaterial: html"
+    "text": "Kursen har en obligatorisk inlämnningsuppgift\n\nInlämningsuppgift\nMaterial: html Datafilen landlocked: html"
   }
 ]
