@@ -63,6 +63,6 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 
 
 <img src="/misc/AF.png" width="33%"/>\
-[Anders Fredriksson](förnamn.efternamn@stat.su.se)<br>Föreläsningar och andra kurskomponenter<br>Adjunkt
+Anders Fredriksson (Adjunkt)<br>Föreläsningar och andra kurskomponenter<br>Kontakt: förnamn.efternamn at stat.su.se<br>
 
 :::
