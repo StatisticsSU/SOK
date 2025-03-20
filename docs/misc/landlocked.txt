@@ -1,199 +1,198 @@
-Country_Area,Region,Landlocked
-Afghanistan,S_C_Asia,1
-Albania,EUR_ASIA,0
-Algeria,MENA,0
-Andorra,EUR_ASIA,1
-Angola,SSA,0
-Antigua and Barbuda,AMERICAS,0
-Argentina,AMERICAS,0
-Armenia,EUR_ASIA,1
-Australia,E_ASIA_PAC,0
-Austria,EUR_ASIA,1
-Azerbaijan,EUR_ASIA,1
-Bahrain,MENA,0
-Bangladesh,S_C_Asia,0
-Barbados,AMERICAS,0
-Belarus,EUR_ASIA,1
-Belgium,EUR_ASIA,0
-Belize,AMERICAS,0
-Benin,SSA,0
-Bhutan,S_C_Asia,1
-Bolivia,AMERICAS,1
-Bosnia and Herzegovina,EUR_ASIA,0
-Botswana,SSA,1
-Brazil,AMERICAS,0
-Brunei,E_ASIA_PAC,0
-Bulgaria,EUR_ASIA,0
-Burkina Faso,SSA,1
-Burma,E_ASIA_PAC,0
-Burundi,SSA,1
-Cabo Verde,SSA,0
-Cambodia,E_ASIA_PAC,0
-Cameroon,SSA,0
-Canada,AMERICAS,0
-Central African Republic,SSA,1
-Chad,SSA,1
-Chile,AMERICAS,0
-China,E_ASIA_PAC,0
-Colombia,AMERICAS,0
-Comoros,SSA,0
-Cook Islands,E_ASIA_PAC,0
-Costa Rica,AMERICAS,0
-Côte d’Ivoire,SSA,0
-Croatia,EUR_ASIA,0
-Cuba,AMERICAS,0
-Cyprus,EUR_ASIA,0
-Czechia,EUR_ASIA,1
-Democratic Republic of the Congo,SSA,0
-Denmark,EUR_ASIA,0
-Djibouti,SSA,0
-Dominica,AMERICAS,0
-Dominican Republic,AMERICAS,0
-Ecuador,AMERICAS,0
-Egypt,MENA,0
-El Salvador,AMERICAS,0
-Equatorial Guinea,SSA,0
-Eritrea,SSA,0
-Estonia,EUR_ASIA,0
-Eswatini,SSA,1
-Ethiopia,SSA,1
-Fiji,E_ASIA_PAC,0
-Finland,EUR_ASIA,0
-France,EUR_ASIA,0
-Gabon,SSA,0
-Georgia,EUR_ASIA,0
-Germany,EUR_ASIA,0
-Ghana,SSA,0
-Greece,EUR_ASIA,0
-Grenada,AMERICAS,0
-Guatemala,AMERICAS,0
-Guinea,SSA,0
-Guinea-Bissau,SSA,0
-Guyana,AMERICAS,0
-Haiti,AMERICAS,0
-Holy See,EUR_ASIA,1
-Honduras,AMERICAS,0
-Hungary,EUR_ASIA,1
-Iceland,EUR_ASIA,0
-India,S_C_Asia,0
-Indonesia,E_ASIA_PAC,0
-Iran,MENA,0
-Iraq,MENA,0
-Ireland,EUR_ASIA,0
-Israel,MENA,0
-Italy,EUR_ASIA,0
-Jamaica,AMERICAS,0
-Japan,E_ASIA_PAC,0
-Jordan,MENA,0
-Kazakhstan,S_C_Asia,1
-Kenya,SSA,0
-Kiribati,E_ASIA_PAC,0
-Kosovo,EUR_ASIA,0
-Kuwait,MENA,0
-Kyrgyzstan,S_C_Asia,1
-Laos,E_ASIA_PAC,1
-Latvia,EUR_ASIA,0
-Lebanon,MENA,0
-Lesotho,SSA,1
-Liberia,SSA,0
-Libya,MENA,0
-Liechtenstein,EUR_ASIA,1
-Lithuania,EUR_ASIA,0
-Luxembourg,EUR_ASIA,1
-Madagascar,SSA,0
-Malawi,SSA,1
-Malaysia,E_ASIA_PAC,0
-Maldives,S_C_Asia,0
-Mali,SSA,1
-Malta,EUR_ASIA,0
-Marshall Islands,E_ASIA_PAC,0
-Mauritania,SSA,0
-Mauritius,SSA,0
-Mexico,AMERICAS,0
-Micronesia,E_ASIA_PAC,0
-Moldova,EUR_ASIA,1
-Monaco,EUR_ASIA,0
-Mongolia,E_ASIA_PAC,1
-Montenegro,EUR_ASIA,0
-Morocco,MENA,0
-Mozambique,SSA,0
-Namibia,SSA,0
-Nauru,E_ASIA_PAC,0
-Nepal,S_C_Asia,1
-Netherlands,EUR_ASIA,0
-New Zealand,E_ASIA_PAC,0
-Nicaragua,AMERICAS,0
-Niger,SSA,1
-Nigeria,SSA,0
-Niue,E_ASIA_PAC,0
-North Korea,E_ASIA_PAC,0
-North Macedonia,EUR_ASIA,1
-Norway,EUR_ASIA,0
-Oman,MENA,0
-Pakistan,S_C_Asia,0
-Palau,E_ASIA_PAC,0
-Palestinian Territories,MENA,0
-Panama,AMERICAS,0
-Papua New Guinea,E_ASIA_PAC,0
-Paraguay,AMERICAS,1
-Peru,AMERICAS,0
-Philippines,E_ASIA_PAC,0
-Poland,EUR_ASIA,0
-Portugal,EUR_ASIA,0
-Qatar,MENA,0
-Republic of the Congo,SSA,0
-Romania,EUR_ASIA,0
-Russia,EUR_ASIA,0
-Rwanda,SSA,1
-Saint Kitts and Nevis,AMERICAS,0
-Saint Lucia,AMERICAS,0
-Saint Vincent and the Grenadines,AMERICAS,0
-Samoa,E_ASIA_PAC,0
-San Marino,EUR_ASIA,1
-Sao Tome and Principe,SSA,0
-Saudi Arabia,MENA,0
-Senegal,SSA,0
-Serbia,EUR_ASIA,1
-Seychelles,SSA,0
-Sierra Leone,SSA,0
-Singapore,E_ASIA_PAC,0
-Slovakia,EUR_ASIA,1
-Slovenia,EUR_ASIA,0
-Solomon Islands,E_ASIA_PAC,0
-Somalia,SSA,0
-South Africa,SSA,0
-South Korea,E_ASIA_PAC,0
-South Sudan,SSA,1
-Spain,EUR_ASIA,0
-Sri Lanka,S_C_Asia,0
-Sudan,SSA,0
-Suriname,AMERICAS,0
-Sweden,EUR_ASIA,0
-Switzerland,EUR_ASIA,1
-Syria,MENA,0
-Taiwan,E_ASIA_PAC,0
-Tajikistan,S_C_Asia,1
-Tanzania,SSA,0
-Thailand,E_ASIA_PAC,0
-The Bahamas,AMERICAS,0
-The Gambia,SSA,0
-Timor-Leste,E_ASIA_PAC,0
-Togo,SSA,0
-Tonga,E_ASIA_PAC,0
-Trinidad and Tobago,AMERICAS,0
-Tunisia,MENA,0
-Turkey (Türkiye),EUR_ASIA,0
-Turkmenistan,S_C_Asia,1
-Tuvalu,E_ASIA_PAC,0
-Uganda,SSA,1
-Ukraine,EUR_ASIA,0
-United Arab Emirates,MENA,0
-United Kingdom,EUR_ASIA,0
-Uruguay,AMERICAS,0
-Uzbekistan,S_C_Asia,1
-Vanuatu,E_ASIA_PAC,0
-Venezuela,AMERICAS,0
-Vietnam,E_ASIA_PAC,0
-Yemen,MENA,0
-Zambia,SSA,1
-Zimbabwe,SSA,1
+Varldsdel,Land,Landlocked
+Asien,Afghanistan,1
+Europa,Albanien,0
+Afrika,Algeriet,0
+Europa,Andorra,1
+Afrika,Angola,0
+Nordamerika,Antigua & Barbuda,0
+Sydamerika,Argentina,0
+Europa,Armenien,1
+Oceanien,Australien,0
+Europa,Azerbajdzjan,1
+Nordamerika,Bahamas,0
+Asien,Bahrain,0
+Asien,Bangladesh,0
+Nordamerika,Barbados,0
+Europa,Belarus (Vitryssland),1
+Europa,Belgien,0
+Nordamerika,Belize,0
+Afrika,Benin,0
+Asien,Bhutan,1
+Sydamerika,Bolivia,1
+Europa,Bosnien och Hercegovina,0
+Afrika,Botswana,1
+Sydamerika,Brasilien,0
+Asien,Brunei,0
+Europa,Bulgarien,0
+Afrika,Burkina Faso,1
+Afrika,Burundi,1
+Afrika,Centralafrikanska republiken,1
+Sydamerika,Chile,0
+Sydamerika,Colombia,0
+Nordamerika,Costa Rica,0
+Europa,Cypern,0
+Europa,Danmark,0
+Afrika,Djibouti,0
+Nordamerika,Dominica,0
+Nordamerika,Dominikanska republiken,0
+Sydamerika,Ecuador,0
+Afrika,Egypten,0
+Afrika,Ekvatorialguinea,0
+Nordamerika,El Salvador,0
+Afrika,Elfenbenskusten,0
+Afrika,Eritrea,0
+Europa,Estland,0
+Afrika,Eswatini (Swaziland),1
+Afrika,Etiopien,1
+Oceanien,Fiji,0
+Asien,Filippinerna,0
+Europa,Finland,0
+Asien,Förenade arabemiraten,0
+Europa,Frankrike,0
+Afrika,Gabon,0
+Afrika,Gambia,0
+Europa,Georgien,0
+Afrika,Ghana,0
+Europa,Grekland,0
+Nordamerika,Grenada,0
+Nordamerika,Guatemala,0
+Afrika,Guinea,0
+Afrika,Guinea-Bissau,0
+Sydamerika,Guyana,0
+Nordamerika,Haiti,0
+Nordamerika,Honduras,0
+Asien,Indien,0
+Asien,Indonesien,0
+Asien,Irak,0
+Asien,Iran,0
+Europa,Irland,0
+Europa,Island,0
+Asien,Israel,0
+Europa,Italien,0
+Nordamerika,Jamaica,0
+Asien,Japan,0
+Asien,Jemen,0
+Asien,Jordanien,0
+Asien,Kambodja,0
+Afrika,Kamerun,0
+Nordamerika,Kanada,0
+Afrika,Kap Verde,0
+Asien,Kazakstan,1
+Afrika,Kenya,0
+Asien,Kina,0
+Asien,Kirgizistan,1
+Oceanien,Kiribati,0
+Afrika,Komorerna,0
+Afrika,Kongo-Brazzaville,0
+Afrika,Kongo-Kinshasa,0
+Europa,Kosovo,0
+Europa,Kroatien,0
+Nordamerika,Kuba,0
+Asien,Kuwait,0
+Asien,Laos,1
+Afrika,Lesotho,1
+Europa,Lettland,0
+Asien,Libanon,0
+Afrika,Liberia,0
+Afrika,Libyen,0
+Europa,Liechtenstein,1
+Europa,Litauen,0
+Europa,Luxemburg,1
+Afrika,Madagaskar,0
+Afrika,Malawi,1
+Asien,Malaysia,0
+Asien,Maldiverna,0
+Afrika,Mali,1
+Europa,Malta,0
+Afrika,Marocko,0
+Oceanien,Marshallöarna,0
+Afrika,Mauretanien,0
+Afrika,Mauritius,0
+Nordamerika,Mexiko,0
+Oceanien,Mikronesiska federationen,0
+Afrika,Moçambique,0
+Europa,Moldavien,1
+Europa,Monaco,0
+Asien,Mongoliet,1
+Europa,Montenegro,0
+Asien,Myanmar (Burma),0
+Afrika,Namibia,0
+Oceanien,Nauru,0
+Europa,Nederländerna,0
+Asien,Nepal,1
+Nordamerika,Nicaragua,0
+Afrika,Niger,1
+Afrika,Nigeria,0
+Asien,Nordkorea,0
+Europa,Nordmakedonien,1
+Europa,Norge,0
+Oceanien,Nya Zeeland,0
+Asien,Oman,0
+Europa,Österrike,1
+Asien,Östtimor,0
+Asien,Pakistan,0
+Oceanien,Palau,0
+Asien,Palestina,0
+Nordamerika,Panama,0
+Oceanien,Papua Nya Guinea,0
+Sydamerika,Paraguay,1
+Sydamerika,Peru,0
+Europa,Polen,0
+Europa,Portugal,0
+Asien,Qatar,0
+Europa,Rumänien,0
+Afrika,Rwanda,1
+Europa,Ryssland,0
+Nordamerika,Saint Kitts & Nevis,0
+Nordamerika,Saint Lucia,0
+Nordamerika,Saint Vincent & Grenadinerna,0
+Oceanien,Salomonöarna,0
+Oceanien,Samoa,0
+Europa,San Marino,1
+Afrika,São Tomé & Príncipe,0
+Asien,Saudiarabien,0
+Europa,Schweiz,1
+Afrika,Senegal,0
+Europa,Serbien,1
+Afrika,Seychellerna,0
+Afrika,Sierra Leone,0
+Asien,Singapore,0
+Europa,Slovakien,1
+Europa,Slovenien,0
+Afrika,Somalia,0
+Europa,Spanien,0
+Asien,Sri Lanka,0
+Europa,Storbritannien,0
+Afrika,Sudan,0
+Sydamerika,Surinam,0
+Europa,Sverige,0
+Afrika,Sydafrika,0
+Asien,Sydkorea,0
+Afrika,Sydsudan,1
+Asien,Syrien,0
+Asien,Tadzjikistan,1
+Asien,Taiwan,0
+Afrika,Tanzania,0
+Afrika,Tchad,1
+Asien,Thailand,0
+Europa,Tjeckien,1
+Afrika,Togo,0
+Oceanien,Tonga,0
+Nordamerika,Trinidad & Tobago,0
+Afrika,Tunisien,0
+Europa,Turkiet,0
+Asien,Turkmenistan,1
+Oceanien,Tuvalu,0
+Europa,Tyskland,0
+Afrika,Uganda,1
+Europa,Ukraina,0
+Europa,Ungern,1
+Sydamerika,Uruguay,0
+Nordamerika,USA,0
+Asien,Uzbekistan,1
+Oceanien,Vanuatu,0
+Europa,Vatikanstaten,1
+Sydamerika,Venezuela,0
+Asien,Vietnam,0
+Afrika,Zambia,1
+Afrika,Zimbabwe,1
