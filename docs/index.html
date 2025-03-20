@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SÖK - Statistisk översiktskurs, 7.5 hp</title>
+<title>Statistisk översiktskurs, 7.5 hp – SÖK</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -131,7 +131,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Sections</h2>
    
   <ul>
-  <li><a href="#uppdatering" id="toc-uppdatering" class="nav-link active" data-scroll-target="#uppdatering">Uppdatering</a></li>
+  <li><a href="#uppdateringar" id="toc-uppdateringar" class="nav-link active" data-scroll-target="#uppdateringar">Uppdateringar</a></li>
+  <li><a href="#kursbeskrivning" id="toc-kursbeskrivning" class="nav-link" data-scroll-target="#kursbeskrivning">Kursbeskrivning</a></li>
   <li><a href="#mål" id="toc-mål" class="nav-link" data-scroll-target="#mål">Mål</a></li>
   <li><a href="#innehåll" id="toc-innehåll" class="nav-link" data-scroll-target="#innehåll">Innehåll</a></li>
   <li><a href="#kurslitteratur" id="toc-kurslitteratur" class="nav-link" data-scroll-target="#kurslitteratur">Kurslitteratur</a></li>
@@ -167,9 +168,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"></p>
-<section id="uppdatering" class="level3">
-<h3 class="anchored" data-anchor-id="uppdatering">Uppdatering</h3>
-<p>Innehållet kommer uppdateras innan kursstart 250324</p>
+<section id="uppdateringar" class="level3">
+<h3 class="anchored" data-anchor-id="uppdateringar">Uppdateringar</h3>
+<p>Ytterligare uppdateringar kommer innan kursstart.</p>
+</section>
+<section id="kursbeskrivning" class="level3">
+<h3 class="anchored" data-anchor-id="kursbeskrivning">Kursbeskrivning</h3>
+<p>Länk till kursens sida på SU.se <a href="https://www.su.se/sok-kurser-och-program/st1801-1.617482?semester=VT25&amp;eventcode=39064&amp;open-collapse-boxes=course-detail">SÖK</a>.</p>
 </section>
 <section id="mål" class="level3">
 <h3 class="anchored" data-anchor-id="mål">Mål</h3>
@@ -411,18 +416,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -454,7 +448,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -462,7 +478,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

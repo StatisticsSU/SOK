@@ -5,8 +5,13 @@ format: html
 
 <img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
 
-### Uppdatering
-Innehållet kommer uppdateras innan kursstart 250324
+### Uppdateringar
+
+Ytterligare uppdateringar kommer innan kursstart.
+
+### Kursbeskrivning
+
+Länk till kursens sida på SU.se [SÖK](https://www.su.se/sok-kurser-och-program/st1801-1.617482?semester=VT25&eventcode=39064&open-collapse-boxes=course-detail).
 
 ### Mål
 
