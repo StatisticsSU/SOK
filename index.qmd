@@ -35,9 +35,12 @@ Enligt gällande kursplan ska kursen ge en introduktion till statistik och dess 
 
 Kursbok: Çetinkaya-Rundel, M., & Hardin, J. (2024). Introduction to Modern Statistics (IMS). 2:a upplagan. Elektronisk resurs från OpenIntro. https://openintro-ims.netlify.app
 
+Ytterligare material tillkommer, materialet listas i kursbeskrivningen.
+
+
 ### Kursstruktur
 
-Kursen består av [föreläsningar](lectures.qmd), [räkneövningar](exercises.qmd) och [datorövningar](computerlabs.qmd). 
+Kursen består av [föreläsningar](lectures.qmd), [räkneövningar](exercises.qmd) och [datorövningar](computerlabs.qmd). Dessutom finns jourtillfällen.
 
 ### Examination
 
@@ -53,16 +56,19 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 
 ### Formelsamlingar
 
-### Interaktivt material
+### Interaktivt material (en resurs att använda för den som önskar)
+Repetition och övningar i algebra, summor och produkter, och andra områden inom statistik.
+[Statistics tutor](https://karlsigfrid.github.io/statisticstutor/output/exercises/algebra_basic.html). 
+
 
 ### Lärare
 
 ::: {layout="[ [1,1],[1,1] ]"}
-<img src="/misc/ulf1.jpg" width="33%"/>\
+<img src="/misc/ulf1.jpg" width="44%"/>\
 [Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Universitetsadjunkt
 
 
-<img src="/misc/AF.png" width="33%"/>\
-Anders Fredriksson (Adjunkt)<br>Föreläsningar och andra kurskomponenter<br>Kontakt: förnamn.efternamn at stat.su.se<br>
+<img src="/misc/AF.png" width="30%"/>\
+**Anders Fredriksson** (Adjunkt)<br>Föreläsningar och andra kurskomponenter<br>**Kontakt**: förnamn.efternamn at stat.su.se<br>
 
 :::
