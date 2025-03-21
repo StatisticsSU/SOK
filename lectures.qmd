@@ -5,26 +5,69 @@ format: html
 
 <img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
 
-> This page contains a short description of the contents, reading instructions and additional material for each lecture.
 
-The reading suggestions below are section numbers from the course book Wackerley, Mendenhall and Scheaffer (2021). [Mathematical Statistics with Applications](misc/larry.png), 7th edition, Cengage.
+Sidan uppdateras innan kursstart.
 
-**Lecture 1 - Lecture topic 1**\
+
+**Föreläsning 1**\
+Innehåll: Inledande exempel, Vad är statistik?, Grundläggande begrepp, Exempel på vilseledande statistik, Kursformalia.\
+Material: [Slides](/misc/larry.png)\
+Läs: Introduction to Modern Statistics (IMS) kap 1-2.\
+
+**Föreläsning 2**\
+Innehåll: Variabeltyper och variabelegenskaper, Deskriptiv statistik; tabeller, diagram, grafer, Sammanfattande mått (lägesmått och spridningsmått).\
+Material: [Slides](/misc/larry.png)\
+Läs: IMS kap (3) 4-5 (6), Dahmström kap 3.1-3.2.\
+
+**Föreläsning 3**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
+
+**Föreläsning 4**\
 Read: [Slides](/misc/larry.png) \
 Code: \
 Data: \
 
-**Lecture 2 - Lecture topic 2**\
-Read: [Slides](/misc/larry.png) \
-Code: \
-Data: \
+**Föreläsning 5**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
 
-**Lecture 3 - Lecture topic 3**\
-Read: [Slides](/misc/larry.png) \
-Code: \
-Data: \
+**Föreläsning 6**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
 
+**Föreläsning 7**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
 
+**Föreläsning 8**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
+
+**Föreläsning 9**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
+
+**Föreläsning 10**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
+
+**Föreläsning 11**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
+
+**Föreläsning 12**\
+Innehåll: \
+Material: [Slides](/misc/larry.png) \
+Läs: \
 
 
 
