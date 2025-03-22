@@ -24,7 +24,7 @@ website:
       - href: computerlabs.qmd
         text: Datorövningar
       - href: homeassignment.qmd
-        text: Inlämningsuppgifter
+        text: Inlämningsuppgift
         
   page-footer:
     left:
