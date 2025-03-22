@@ -31,11 +31,18 @@ För godkänt resultat ska studenten kunna:
 
 Enligt gällande kursplan ska kursen ge en introduktion till statistik och dess roll och nytta i det datadrivna samhället. Kursens målsättning är att ge en orientering om olika typer av datakällor, förståelse för möjligheter och begränsningar med dataanalys, kunskap för att kritiskt kunna läsa och utvärdera statistiska resultat samt verktyg för att kunna göra enklare deskription av kvantitativa data. Översiktligt behandlas deskriptiv statistik, datainsamling, datatyper, datakvalitet, tolkning av sannolikhet och osäkerhet. Därefter följer inferens, med hypotesprövning, konfidensintervall, regression, prediktion, samt korrelation och kausalitet. Tidsserier diskuteras också översiktligt. Mot slutet av kursen behandlas machine learning och AI och kopplingen mellan dessa områden och statistik, och därtill kritisk granskning
 
-### Kurslitteratur
+### Huvudsaklig kurslitteratur (kursbok)
 
 Kursbok: Çetinkaya-Rundel, M., & Hardin, J. (2024). Introduction to Modern Statistics (IMS). 2:a upplagan. Elektronisk resurs från OpenIntro. https://openintro-ims.netlify.app
 
-Ytterligare material tillkommer, materialet listas i kursbeskrivningen.
+
+### Annan kurslitteratur (kommer att finnas på Athena)
+
+Dahmström, K. (2011). Från datainsamling till rapport – att göra en statistisk undersökning (D). 5:e upplagan. Studentlitteratur, Lund. Kapitel 2 (inledning), 3.1-3.2 (15 sidor totalt).
+
+De Veaux, R., Velleman, P., & Bock, D. (2021), Stats: Data and Models (SDM). 5:e upplagan, Pearson Global Edition. Kapitel 12 (15 sidor totalt).
+
+Ytterligare något material kan tillkomma, materialet listas i kursbeskrivningen.
 
 
 ### Kursstruktur
