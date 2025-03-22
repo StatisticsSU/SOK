@@ -17,12 +17,11 @@ Datafilen landlocked: [html](misc/landlocked.txt)
 
 **Datorlaboration 3**\
 Innehåll: Konfidensintervall, Hypotesprövning.\
-Material
+Material:
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
-Material
+Material:
 
 **Datorlaboration 5**\
 Innehåll: Hjälp med inlämningsuppgift.
-

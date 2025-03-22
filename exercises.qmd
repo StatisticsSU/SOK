@@ -6,7 +6,7 @@ format: html
 <img src="misc/banner_image2.png" alt="AI generated banner image" class="center" width="100%"/>
 
 
-På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla övningar på listan ingår i kursmaterialet. 
+På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla övningar i listan ingår i kursmaterialet. 
 
 The exercise numbers below uses the numbering in the course book: [KURSBOK](misc/larry.png)
 

@@ -1,5 +1,5 @@
 ---
-title: "Inlämnningsuppgift för Statistisk översiktskurs, 7.5 hp"
+title: "Inlämningsuppgift för Statistisk översiktskurs, 7.5 hp"
 format: html
 ---
 
