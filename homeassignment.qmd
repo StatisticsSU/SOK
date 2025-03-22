@@ -9,4 +9,3 @@ format: html
 
 **Inlämningsuppgift**\
 Material: [html](misc/larry.png)
-Datafilen landlocked: [html](misc/landlocked.txt)
