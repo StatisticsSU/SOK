@@ -8,7 +8,7 @@ format: html
 
 **Datorlaboration 1**\
 Innehåll: Introduktion till R. R som miniräknare, enkla beräkningar, ladda ned data, spara data.\
-Material: [pdf](misc/larry.jpg)
+Material: [pdf](misc/Datorlaboration1.pdf)
 
 **Datorlaboration 2**\
 Innehåll: Deskription i R, plotta, sammanfattande mått, etc.\
