@@ -12,8 +12,8 @@ Material: [pdf](misc/Datorlaboration1.pdf)
 
 **Datorlaboration 2**\
 Innehåll: Deskription i R, plotta, sammanfattande mått, etc.\
-Material: 
-Datafilen landlocked: [html](misc/landlocked.txt)
+Material: pdf\
+Datafil: [landlocked.txt](misc/landlocked.txt)
 
 **Datorlaboration 3**\
 Innehåll: Konfidensintervall, Hypotesprövning.\
