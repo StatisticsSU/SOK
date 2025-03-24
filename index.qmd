@@ -7,7 +7,7 @@ format: html
 
 ### Uppdateringar
 
-Ytterligare uppdateringar kommer innan kursstart.
+Hemsidan uppdateras kontinerligt med föreläsningsbilder, labbinstruktioner och annat material.
 
 ### Kursbeskrivning
 
