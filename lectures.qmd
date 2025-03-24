@@ -11,8 +11,8 @@ Uppdateras innan kursstart.
 
 **Föreläsning 1**\
 Innehåll: Inledande exempel, Vad är statistik?, Grundläggande begrepp, Exempel på vilseledande statistik, Kursformalia.\
-Material: [pdf](/misc/larry.png)\
-Material: [Exempel vilseledande statistik](/misc/Exempel_vilseledande_statistik.pdf)\
+Material: [F1](/misc/F1.pdf)\
+Material: [F1_Exempel vilseledande statistik](/misc/F1_Exempel_vilseledande_statistik.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 1-2.\
 
 **Föreläsning 2**\
