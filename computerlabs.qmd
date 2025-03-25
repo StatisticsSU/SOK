@@ -12,7 +12,7 @@ Material: [pdf](misc/Datorlaboration1.pdf)
 
 **Datorlaboration 2**\
 Innehåll: Deskription i R, plotta, sammanfattande mått, etc.\
-Material: pdf\
+Material: [pdf](misc/Datorlaboration2.pdf)\
 Datafil: [landlocked.txt](misc/landlocked.txt)
 
 **Datorlaboration 3**\
