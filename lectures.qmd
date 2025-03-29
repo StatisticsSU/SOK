@@ -26,9 +26,9 @@ Material: [F3](/misc/F3.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 1-2.\
 
 **Föreläsning 4**\
-Read: [Slides](/misc/larry.png) \
-Code: \
-Data: \
+Innehåll: Sannolikhet och slump, slumpvariabler (stokastiska variabler), Normalfördelning, samplingfördelning, Centrala gränsvärdessatsen.\
+Material: \
+Läs: Introduction to Modern Statistics (IMS) kap 13, SDM kap 12.\
 
 **Föreläsning 5**\
 Innehåll: \
