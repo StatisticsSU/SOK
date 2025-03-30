@@ -12,7 +12,7 @@ På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla
 
 **Övning 1**\
 Innehåll: Sammanfattande mått, Sannolikhet.\
-Problem: [Del 1](/misc/Ovning1_1.pdf)\
+Problem: [Sammanfattande mått](/misc/Ovning1_1.pdf), [Sannolikhet](/misc/Ovning1_2.pdf)\
 
 
 **Övning 2**\
