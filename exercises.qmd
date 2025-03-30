@@ -8,11 +8,12 @@ format: html
 
 På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla övningar i listan ingår i kursmaterialet. 
 
-The exercise numbers below uses the numbering in the course book: [KURSBOK](misc/larry.png)
+
 
 **Övning 1**\
-Innehåll: Sannolikhet.\
-Problem:
+Innehåll: Sammanfattande mått, Sannolikhet.\
+Problem: [Del 1](/misc/Ovning1_1.pdf)\
+
 
 **Övning 2**\
 Innehåll: Inferens: punktskattning, konfidensintervall,\ hypotesprövning, p-värde
