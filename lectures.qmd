@@ -31,9 +31,9 @@ Material: [F4](/misc/F4.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 13, SDM kap 12.\
 
 **Föreläsning 5**\
-Innehåll: \
-Material: [Slides](/misc/larry.png) \
-Läs: \
+Innehåll: Introduktion till Inferens\
+Material: [F5](/misc/F5.pdf)\
+Läs: Introduction to Modern Statistics (IMS) kap 11, 12, and 16\
 
 **Föreläsning 6**\
 Innehåll: \
