@@ -5,7 +5,10 @@ format: html
 
 <img src="misc/banner_image4.png" alt="AI generated banner image" class="center" width="100%"/>
 
-> Kursen har en obligatorisk inlämnningsuppgift
+> Kursen har en obligatorisk inlämnningsuppgift, det finns frågedelar som relaterar till labbarna 1-4.
 
 **Inlämningsuppgift**\
-Material: [html](misc/larry.png)
+Introduktion och frågor relaterade till labb 1 och 2: [pdf](misc/Inlamningsuppgift_12.pdf)\
+Frågor relaterade till labb 3 och 4 (kommer snart):\
+
+
