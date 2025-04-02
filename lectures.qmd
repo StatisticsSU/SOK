@@ -33,12 +33,12 @@ Läs: Introduction to Modern Statistics (IMS) kap 13, SDM kap 12.\
 **Föreläsning 5**\
 Innehåll: Introduktion till Inferens\
 Material: [F5](/misc/F5.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 11, 12, and 16\
+Läs: Introduction to Modern Statistics (IMS) kap 11, 12, och 16\
 
 **Föreläsning 6**\
-Innehåll: \
-Material: [Slides](/misc/larry.png) \
-Läs: \
+Innehåll: Inferens; hypotesprövning, p-värde\
+Material: [F5](/misc/F5.pdf)\
+Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
 
 **Föreläsning 7**\
 Innehåll: \
