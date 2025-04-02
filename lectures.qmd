@@ -37,7 +37,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 11, 12, och 16\
 
 **Föreläsning 6**\
 Innehåll: Inferens; hypotesprövning, p-värde\
-Material: [F5](/misc/F5.pdf)\
+Material: [F6](/misc/F6.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
 
 **Föreläsning 7**\
