@@ -16,7 +16,7 @@ library(openintro)
 normTail(0, 1, U = z_obs)
 # Find the probability
 pnorm(z_obs, lower.tail = FALSE)
-?pnorm
+
 
 v <- numeric(1e4)
 x <- c(rep(1,40),numeric(60))
@@ -25,4 +25,25 @@ for (i in 1:1e4){
 }
 hist(v, main = "The Randomization Test Procedure")
 abline(v = .44, lty = 2, lwd = 2, col = "red")
+mean(v>=.44)
+par(mfrow=c(1,1))
+plot(table(v))
+abline(v = .44, lty = 1, lwd = 1, col = "red")
 
+# The bootstrap
+n <- 5000
+novus <- c(rep(1, 204), numeric(305))
+mean(novus)
+w <- numeric(n)
+for (i in 1:n){
+  w[i] <- mean(sample(novus, 500, replace = TRUE))
+}
+hist(w, main = "Kristersson, mar-25, 5000 Bootstrapstickprov")
+lower.upper <- quantile(w, c(.025, .975))
+lower.upper
+abline(v = lower.upper[1], col = "red", lty = 3, lwd = 2)
+abline(v = lower.upper[2], col = "red", lty = 3, lwd = 2)
+prop.test(204, 500)
+0.4008-0.04257
+0.4008+0.04257
+lower.upper
