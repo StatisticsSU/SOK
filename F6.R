@@ -25,10 +25,11 @@ for (i in 1:1e4){
 }
 hist(v, main = "The Randomization Test Procedure")
 abline(v = .44, lty = 2, lwd = 2, col = "red")
-mean(v>=.44)
+
 par(mfrow=c(1,1))
-plot(table(v))
+plot(table(v), main = "The Randomization Test Procedue, p0 = 0.40")
 abline(v = .44, lty = 1, lwd = 1, col = "red")
+mean(v>=.44)
 
 # The bootstrap
 n <- 5000

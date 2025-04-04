@@ -20,7 +20,8 @@ Innehåll: Inferens: punktskattning, konfidensintervall,\ hypotesprövning, p-v
 Problem från (IMS):  
 **kap. 11**: 3, 4, 5, 7  
 **kap. 12**: 1  
-**kap. 16**: 1, 3, 5, 7, 19, 22 \
+**kap. 16**: 1, 3, 5, 7, 19, 22  
+Lösnigar: [Ö2 lösnigar utom 19 och 22](/misc/Övning_2_lösningar_utom_19_22.pdf)\
 
 **Övning 3**\
 Innehåll: Regression.\
