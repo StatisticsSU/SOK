@@ -1,4 +1,4 @@
-country,child_mort,fertility,co2,gdp_cap,pop,life_exp,landlocked
+country,child_mort,fertility,co2_cap,gdp_cap,pop,life_exp,landlocked
 Afghanistan,54.2,4.93,0.284,1390,40600000,62.6,1
 Albania,8.19,1.36,2.1,15500,2830000,76.1,0
 Algeria,20.9,2.82,3.88,11200,45500000,76.8,0
