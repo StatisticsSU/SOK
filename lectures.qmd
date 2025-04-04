@@ -44,12 +44,12 @@ Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
 **Föreläsning 7**\
 Innehåll: \
 Material: [Slides](/misc/larry.png) \
-Läs: \
+Läs: Introduction to Modern Statistics (IMS) kap 7\
 
 **Föreläsning 8**\
 Innehåll: \
 Material: [Slides](/misc/larry.png) \
-Läs: \
+Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
 
 **Föreläsning 9**\
 Innehåll: \
