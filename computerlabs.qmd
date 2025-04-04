@@ -22,7 +22,7 @@ Material:
 **Datorlaboration 4**\
 Innehåll: Regression.\
 Material:
-Datafil: [gapm.txt](misc/landlocked.txt)
+Datafil: [gapm.txt](misc/gapm.txt)
 
 
 **Datorlaboration 5**\
