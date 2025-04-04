@@ -22,6 +22,8 @@ Material:
 **Datorlaboration 4**\
 Innehåll: Regression.\
 Material:
+Datafil: [gapm.txt](misc/landlocked.txt)
+
 
 **Datorlaboration 5**\
 Innehåll: Hjälp med inlämningsuppgift.
