@@ -17,7 +17,7 @@ Datafil: [landlocked.txt](misc/landlocked.txt)
 
 **Datorlaboration 3**\
 Innehåll: Konfidensintervall, Hypotesprövning.\
-Material:
+Material: [netflix_sample.csv](misc/netflix_sample.csv)
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
