@@ -9,6 +9,6 @@ format: html
 
 **Inlämningsuppgift**\
 Introduktion och frågor relaterade till labb 1 och 2: [pdf](misc/Inlamningsuppgift_12.pdf)\
-Frågor relaterade till labb 3 och 4 (kommer snart):[]()\
+Frågor relaterade till labb 3 och 4: [pdf](misc/Inlamningsuppgift_34.pdf)\
 
 
