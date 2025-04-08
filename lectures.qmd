@@ -48,7 +48,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 7\
 
 **Föreläsning 8**\
 Innehåll: \
-Material: [Slides](/misc/larry.png) \
+Material: [F8](/misc/F8.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
 
 **Föreläsning 9**\
