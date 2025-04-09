@@ -53,7 +53,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
 
 **Föreläsning 9**\
 Innehåll: Multipel Linjär Regression\
-Material: [Slides](/misc/F9.pdf) \
+Material: [F9](/misc/F9.pdf) \
 Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
 
 **Föreläsning 10**\
