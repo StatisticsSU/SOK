@@ -22,7 +22,8 @@ Data: [netflix_sample.csv](misc/netflix_sample.csv)
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
-Material:
+Material:\
+Datafil: [CAPM_data.RData](misc/CAPM_data.RData)\
 Datafil: [gapm.txt](misc/gapm.txt)
 
 
