@@ -24,6 +24,7 @@ Data: [netflix_sample.csv](misc/netflix_sample.csv)
 Innehåll: Regression.\
 Material:\
 Datafil: [CAPM_data.RData](misc/CAPM_data.RData)\
+Datafil: [FevChildren.RData](misc/FevChildren.RData)\
 Datafil: [gapm.txt](misc/gapm.txt)
 
 
