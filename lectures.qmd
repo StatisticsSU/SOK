@@ -57,7 +57,7 @@ Material: [F9](/misc/F9.pdf) \
 Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
 
 **Föreläsning 10**\
-Innehåll: \
+Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
 Material: [Slides](/misc/larry.png) \
 Läs: \
 

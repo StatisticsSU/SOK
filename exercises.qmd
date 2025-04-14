@@ -27,7 +27,8 @@ Lösningar: [Övning 2 lösningar](/misc/Ö2_lösningar.pdf)\
 Innehåll: Korrelation, regression. \
 Problem från (IMS):  
 **kap. 7**: 1, 2, 3, 5, 7     
-**kap. 8**: 1, 3, 7, 9, 11, 12, 13, 14  
+**kap. 8**: 1, 3, 7, 9, 11, 12, 13, 14\
+Lösningar [Övning 3 (IMS)](/misc/Övning_3_SÖK.pdf)\
 Annat material: [Övning 3 korrelation](/misc/Ovning3_1.pdf)\
 
 
