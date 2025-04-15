@@ -60,7 +60,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
 Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
 Material: [F10](/misc/F10.pdf)\
 Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_utbetalning_2025-02-05_ver_1.pdf)\
-Läs: Föreläsningsanteckningar F10\
+Läs: Föreläsningsbilder F10\
 
 **Föreläsning 11**\
 Innehåll: \
