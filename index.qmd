@@ -68,7 +68,7 @@ Repetition och övningar i algebra, summor och produkter, och andra områden ino
 [Statistics tutor](https://karlsigfrid.github.io/statisticstutor/output/exercises/algebra_basic.html). 
 
 ### Instuderingsfrågor
-Frågorna är avsedda som en instuderingshjälp.
+Frågorna är avsedda som en instuderingshjälp.\
 Material: [Instuderingsfrågor](/misc/Instuderingsfrågor.pdf)\
 
 ### Lärare
