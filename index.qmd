@@ -67,6 +67,9 @@ Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.ht
 Repetition och övningar i algebra, summor och produkter, och andra områden inom statistik.
 [Statistics tutor](https://karlsigfrid.github.io/statisticstutor/output/exercises/algebra_basic.html). 
 
+### Instuderingsfrågor
+Frågorna är avsedda som en instuderingshjälp.
+Material: [Instuderingsfrågor](/misc/Instuderingsfrågor.pdf)\
 
 ### Lärare
 
