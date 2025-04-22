@@ -63,9 +63,9 @@ Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_ut
 Läs: Föreläsningsbilder F10\
 
 **Föreläsning 11**\
-Innehåll: \
-Material: [Slides](/misc/larry.png) \
-Läs: \
+Innehåll: Maskininlärning och AI\
+Material: [F11](/misc/F11.pdf) \
+Läs: Förläsningsbilderna\
 
 **Föreläsning 12**\
 Innehåll: \
