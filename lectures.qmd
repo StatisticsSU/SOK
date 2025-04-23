@@ -68,9 +68,8 @@ Material: [F11](/misc/F11.pdf) \
 Läs: Förläsningsbilderna\
 
 **Föreläsning 12**\
-Innehåll: \
-Material: [Slides](/misc/larry.png) \
-Läs: \
+Innehåll: Vi går igenom exempeltentan\
+Material: [Exempeltenta](/misc/SÖK_exempeltenta.pdf) \
 
 
 
