@@ -69,7 +69,7 @@ Läs: Förläsningsbilderna\
 
 **Föreläsning 12**\
 Innehåll: Vi går igenom exempeltentan\
-Material: [Exempeltenta](/misc/SÖK_exempeltenta.pdf) \
-
+Material: [Övningstenta](/misc/SÖK_exempeltenta.pdf) \
+Material: [Övningstentan med lösningar](/misc/SÖK_exempeltenta_lösningar.pdf) \
 
 
