@@ -75,7 +75,7 @@ Material: [Instuderingsfrågor](/misc/Instuderingsfrågor.pdf)\
 
 ::: {layout="[ [1,1],[1,1] ]"}
 <img src="/misc/ulf1.jpg" width="44%"/>\
-[Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Universitetsadjunkt
+[Ulf Högnäs](https://www.su.se/profiles/ulh3291-1.365684)<br>Kursanvarig och föreläsare<br>Adjunkt
 
 
 <img src="/misc/AF.png" width="30%"/>\
