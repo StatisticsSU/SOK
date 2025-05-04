@@ -65,7 +65,7 @@ Läs: Föreläsningsbilder F10\
 **Föreläsning 11**\
 Innehåll: Maskininlärning och AI\
 Material: [F11](/misc/F11.pdf) \
-Läs: Förläsningsbilderna\
+Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
 Innehåll: Vi går igenom exempeltentan\
