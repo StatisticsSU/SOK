@@ -7,7 +7,7 @@ format: html
 
 ### Uppdateringar
 
-Kursen ges nästa gång under vårterminen 2026, sidan kommer då att uppdateras.
+Kursen startar 23 mars 2026, uppdateringar av sidan kommer göras innan kursstart.
 
 ### Kursbeskrivning
 
