@@ -7,7 +7,9 @@ format: html
 
 ### Uppdateringar
 
-Kursen startar 23 mars 2026, uppdateringar av sidan kommer göras vid kursstart.
+Kursen startar 23 mars 2026.
+Sidan uppdateras kontinuerligt, med föreläsningsbilder, etc.
+
 
 ### Kursbeskrivning
 
@@ -69,7 +71,7 @@ Repetition och övningar i algebra, summor och produkter, och andra områden ino
 
 ### Instuderingsfrågor
 Frågorna är avsedda som en instuderingshjälp.\
-Material: [Instuderingsfrågor]\
+Material:\
 
 ### Lärare
 

@@ -6,8 +6,6 @@ format: html
 <img src="misc/banner_image1.png" alt="AI generated banner image" class="center" width="100%"/>
 
 
-Sidan uppdateras kontinuerligt, med föreläsningsbilder, etc.
-
 
 **Föreläsning 1**\
 Innehåll: Inledande exempel, Vad är statistik?, Grundläggande begrepp, Kursformalia.\

@@ -22,7 +22,7 @@ Data:
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
-Material:[pdf]\
+Material: [pdf]\
 Datafil: [CAPM_data.RData](misc/CAPM_data.RData)\
 Datafil: [FevChildren.RData](misc/FevChildren.RData)\
 Datafil: [gapm.txt](misc/gapm.txt)
