@@ -19,65 +19,61 @@ Innehåll: Variabeltyper och variabelegenskaper, Deskriptiv statistik; tabeller,
 Material: [F2](/misc/F2.pdf)\
 Läs: IMS kap (3) 4-5 (6), Dahmström kap 3.1-3.2.\
 
-
 **Föreläsning 3**\
 Innehåll: Sammanfattande mått (lägesmått och spridningsmått). Exempel på vilseledande statistik.\
 Material: [F3](/misc/F3.pdf)\
 Material: [F3_Vilseledande_statistik](/misc/F3_Vilseledande_statistik.pdf)\
 Läs: IMS kap (3) 4-5 (6).\
 
-
 **Föreläsning 4**\
 Innehåll: Statistiska undersökningar och datainsamling.\
 Material: [F4](/misc/F4.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 1-2.\
 
-
 **Föreläsning 5**\
 Innehåll: Sannolikhet och slump, slumpvariabler (stokastiska variabler), Normalfördelning, samplingfördelning, Centrala gränsvärdessatsen.\
-Material: [F4](/misc/F4.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 13, SDM kap 12.\
-
-**Föreläsning 5**\
-Innehåll: Introduktion till Inferens.\
 Material: [F5](/misc/F5.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 11, 12, och 16\
+Läs: Introduction to Modern Statistics (IMS) kap 13.1-13.3, SDM kap 12.\
 
 **Föreläsning 6**\
-Innehåll: Inferens; hypotesprövning, p-värde.\
-Material: [F6](/misc/F6.pdf)\
-Extramaterial: [F6 del II](/misc/F6_del_II.pdf)\    
-Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
+Innehåll: Introduktion till Inferens.\
+Material: [F6]\
+Läs: Introduction to Modern Statistics (IMS) kap 11, 12, och 16\
 
 **Föreläsning 7**\
-Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
-Material: [F7](/misc/F7.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 7\
+Innehåll: Inferens; hypotesprövning, p-värde.\
+Material: [F7]\
+Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
 
 **Föreläsning 8**\
-Innehåll: Regression, prediktion, inferens.\
-Material: [F8](/misc/F8.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
+Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
+Material: [F8])\
+Läs: Introduction to Modern Statistics (IMS) kap 7\
 
 **Föreläsning 9**\
-Innehåll: Multipel Linjär Regression.\
-Material: [F9](/misc/F9.pdf) \
-Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
+Innehåll: Regression, prediktion, inferens.\
+Material: [F9](/misc/F8.pdf)\
+Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
 
 **Föreläsning 10**\
-Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
-Material: [F10](/misc/F10.pdf)\
-Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_utbetalning_2025-02-05_ver_1.pdf)\
-Läs: Föreläsningsbilder F10\
+Innehåll: Multipel Linjär Regression.\
+Material: [F10]\
+Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
 
 **Föreläsning 11**\
-Innehåll: Maskininlärning och AI\
-Material: [F11](/misc/F11.pdf) \
+Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
+Material: [F11]\
+Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_utbetalning_2025-02-05_ver_1.pdf)\
 Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
+Innehåll: Maskininlärning och AI\
+Material: [F12]\
+Läs: Föreläsningsbilder F12\
+
+**Föreläsning 13**\
 Innehåll: Vi går igenom exempeltentan\
-Material: [Övningstenta](/misc/SÖK_exempeltenta.pdf) \
-Material: [Övningstentan med lösningar](/misc/SOK_exempeltenta_losningar.pdf) \
+Material: [Övningstenta]\
+Material: [Övningstentan med lösningar]\
 
 

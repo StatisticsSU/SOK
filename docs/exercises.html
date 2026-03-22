@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,12 +36,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-31a69106845bb5235818fe7426cf0c4d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-de8a9553950fd18f334eda414d03b9ca.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -155,23 +155,12 @@ ul.task-list li input[type="checkbox"] {
 <p>På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla övningar nedan ingår i kursmaterialet.</p>
 <p><strong>Övning 1</strong><br>
 Innehåll: Sammanfattande mått, Sannolikhet.<br>
-Uppgifter: <a href="./misc/Ovning1_1.pdf">Sammanfattande mått</a>, <a href="./misc/Ovning1_2.pdf">Sannolikhet</a><br>
 </p>
 <p><strong>Övning 2</strong><br>
 Innehåll: Inferens: punktskattning, konfidensintervall,&nbsp;hypotesprövning, p-värde<br>
-Problem från (IMS):<br>
-<strong>kap. 11</strong>: 3, 4, 5, 7<br>
-<strong>kap. 12</strong>: 1<br>
-<strong>kap. 16</strong>: 1, 3, 5, 7, 19, 22<br>
-Lösningar: <a href="./misc/Ö2_lösningar.pdf">Övning 2 lösningar</a><br>
 </p>
 <p><strong>Övning 3</strong><br>
 Innehåll: Korrelation, regression.<br>
-Problem från (IMS):<br>
-<strong>kap. 7</strong>: 1, 2, 3, 5, 7<br>
-<strong>kap. 8</strong>: 1, 3, 7, 9, 11, 12, 13, 14<br>
-Lösningar <a href="./misc/Övning_3_SÖK.pdf">Övning 3 (IMS)</a><br>
-Annat material: <a href="./misc/Ovning3_1.pdf">Övning 3 korrelation</a><br>
 </p>
 
 
@@ -403,8 +392,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -515,7 +502,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
