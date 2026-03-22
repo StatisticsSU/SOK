@@ -61,7 +61,7 @@ Prov 2. Statistisk översiktskurs, inlämningsuppgift, 3 högskolepoäng
 
 Kursens schema finns på [TimeEdit](https://cloud.timeedit.net/su/web/stud1/s.html?tab=3&object=cevt_39063_VT2025&startDate=20250222&endDate=20250913&type=courseevent&h=t). 
 
-### Formelsamlingar
+### Formelsamling
 
 ### Interaktivt material (en resurs att använda för den som önskar)
 Repetition och övningar i algebra, summor och produkter, och andra områden inom statistik.

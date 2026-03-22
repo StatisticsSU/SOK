@@ -38,12 +38,12 @@ Läs: Introduction to Modern Statistics (IMS) kap 13.1-13.3, SDM kap 12.\
 **Föreläsning 6**\
 Innehåll: Introduktion till Inferens.\
 Material: [F6]\
-Läs: Introduction to Modern Statistics (IMS) kap 11, 12, och 16\
+Läs: 
 
 **Föreläsning 7**\
 Innehåll: Inferens; hypotesprövning, p-värde.\
 Material: [F7]\
-Läs: Introduction to Modern Statistics (IMS) kap 11, 14, (15) och 16\
+Läs: 
 
 **Föreläsning 8**\
 Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
@@ -52,8 +52,8 @@ Läs: Introduction to Modern Statistics (IMS) kap 7\
 
 **Föreläsning 9**\
 Innehåll: Regression, prediktion, inferens.\
-Material: [F9](/misc/F8.pdf)\
-Läs: Introduction to Modern Statistics (IMS) kap 7, 10, 24, (19.2.3-19.2.5)\
+Material: [F9]\
+Läs:
 
 **Föreläsning 10**\
 Innehåll: Multipel Linjär Regression.\
@@ -75,5 +75,3 @@ Läs: Föreläsningsbilder F12\
 Innehåll: Vi går igenom exempeltentan\
 Material: [Övningstenta]\
 Material: [Övningstentan med lösningar]\
-
-
