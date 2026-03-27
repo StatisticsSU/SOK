@@ -35,10 +35,10 @@ Läs: Introduction to Modern Statistics (IMS) kap 13.1-13.3, SDM kap 12.\
 
 **Föreläsning 6**\
 Innehåll: Introduktion till Inferens.\
-Läsinstruktion kap 11-12 (7 sidor): [F6_instruktion_kap11_12](/misc/F6_instruktion_kap11_12.pdf)\
+Läsinstruktion kap 11-12: [F6_instruktion_kap11_12](/misc/F6_instruktion_kap11_12.pdf)\
 Material: [F6]\
 Läs:\
-- Ca sju sidor totalt i IMS kap 11 och 12 (separat läsinstruktion)\
+- Ca sju sidor totalt i IMS kap 11 och 12 (se läsinstruktion ovan)\
 - IMS kap 13.1-13.3 (normalfördelningen)\
 - IMS kap 16.2.1-16.2.4 (inferens, andel)\
 - IMS kap 19.2.1-19.2.4 (inferens, medelvärde)\
@@ -48,6 +48,9 @@ Läs:\
 Innehåll: Inferens; hypotesprövning, p-värde.\
 Material: [F7]\
 Läs: 
+- IMS kap 16.2.5 (hypotesprövning, andel)\
+- IMS kap 19.2.5 (hypotesprövning, medelvärde)\
+
 
 **Föreläsning 8**\
 Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
