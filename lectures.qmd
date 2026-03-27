@@ -47,7 +47,7 @@ Läs:\
 **Föreläsning 7**\
 Innehåll: Inferens; hypotesprövning, p-värde.\
 Material: [F7]\
-Läs: 
+Läs:\
 - IMS kap 16.2.5 (hypotesprövning, andel)\
 - IMS kap 19.2.5 (hypotesprövning, medelvärde)\
 
