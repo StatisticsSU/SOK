@@ -37,7 +37,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 13.1-13.3, SDM kap 12.\
 Innehåll: Introduktion till Inferens.\
 Läsinstruktion kap 11-12: [F6_instruktion_kap11_12](/misc/F6_instruktion_kap11_12.pdf)\
 Material: [F6](/misc/F6.pdf)\
-Material: [Kap13_normalfördelning](/misc/Kap13_normalfördelning.pdf)\
+Material: [Kap13_normalfordelning](/misc/Kap13_normalfordelning.pdf)\
 
 Läs:\
 - Ca sju sidor totalt i IMS kap 11 och 12 (se läsinstruktion ovan)\
