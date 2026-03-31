@@ -8,7 +8,5 @@ format: html
 > Kursen har en obligatorisk inlämningsuppgift, det finns frågedelar som relaterar till labbarna 1-4.
 
 **Inlämningsuppgift**\
-Introduktion och frågor relaterade till labb 1 och 2: [pdf]\
-Frågor relaterade till labb 3 och 4: [pdf]\
-
+Inlämningsuppgift: [Inlämningsuppgift](misc/Inlamningsuppgift.pdf)
 
