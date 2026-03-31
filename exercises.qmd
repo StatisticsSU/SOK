@@ -12,7 +12,7 @@ På kursens räkneövningar kommer några av övningarna nedan att tas upp. Alla
 
 **Övning 1**\
 Innehåll: Sammanfattande mått, Sannolikhet.\
-
+[Övning1](/misc/Ovning1.pdf)\
 
 **Övning 2**\
 Innehåll: Inferens: punktskattning, konfidensintervall,\ hypotesprövning, p-värde\
