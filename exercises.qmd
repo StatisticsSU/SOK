@@ -18,6 +18,7 @@ Innehåll: Sammanfattande mått, Sannolikhet.\
 
 **Övning 2**\
 Innehåll: Inferens: punktskattning, konfidensintervall,\ hypotesprövning, p-värde\
+[Övning2](/misc/Ovning2.pdf)\
 
 
 **Övning 3**\
