@@ -17,12 +17,12 @@ Datafil: [landlocked.txt](misc/landlocked.txt)
 
 **Datorlaboration 3**\
 Innehåll: Konfidensintervall, Hypotesprövning.\
-Material: [pdf]\
+Material: [pdf](misc/D3.pdf)\
 Data: 
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
-Material: [pdf]\
+Material: [pdf](misc/D4.pdf)\
 Datafil: [CAPM_data.RData](misc/CAPM_data.RData)\
 Datafil: [FevChildren.RData](misc/FevChildren.RData)\
 Datafil: [gapm.txt](misc/gapm.txt)
