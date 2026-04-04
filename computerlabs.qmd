@@ -18,7 +18,6 @@ Datafil: [landlocked.txt](misc/landlocked.txt)
 **Datorlaboration 3**\
 Innehåll: Konfidensintervall, Hypotesprövning.\
 Material: [pdf](misc/D3.pdf)\
-Data: 
 
 **Datorlaboration 4**\
 Innehåll: Regression.\
