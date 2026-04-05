@@ -35,7 +35,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 13.1-13.3, SDM kap 12.\
 
 **Föreläsning 6**\
 Innehåll: Introduktion till Inferens.\
-Läsinstruktion kap 11-12: [F6_instruktion_kap11_12](/misc/F6_instruktion_kap11_12.pdf)\
+Läsinstruktion, Introduction to Modern Statistics (IMS) kap 11-12: [F6_instruktion_kap11_12](/misc/F6_instruktion_kap11_12.pdf)\
 Material: [F6](/misc/F6.pdf)\
 Material: [Kap13_normalfordelning](/misc/Kap13_normalfordelning.pdf)\
 
@@ -57,7 +57,7 @@ Läs:\
 **Föreläsning 8**\
 Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
 Material: [F8])\
-Läs: Introduction to Modern Statistics (IMS) kap 7\
+Läs: Introduction to Modern Statistics (IMS) kap 7.\
 
 **Föreläsning 9**\
 Innehåll: Regression, prediktion, inferens.\
@@ -67,7 +67,7 @@ Läs:
 **Föreläsning 10**\
 Innehåll: Multipel Linjär Regression.\
 Material: [F10]\
-Läs: Introduction to Modern Statistics (IMS) kap 8, 10\
+Läs: Introduction to Modern Statistics (IMS) kap 8, 10.\
 
 **Föreläsning 11**\
 Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
@@ -76,11 +76,11 @@ Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_ut
 Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
-Innehåll: Maskininlärning och AI\
+Innehåll: Maskininlärning och AI.\
 Material: [F12]\
 Läs: Föreläsningsbilder F12\
 
 **Föreläsning 13**\
-Innehåll: Vi går igenom exempeltentan\
+Innehåll: Vi går igenom en exempeltenta.\
 Material: [Övningstenta]\
 Material: [Övningstentan med lösningar]\
