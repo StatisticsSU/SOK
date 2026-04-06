@@ -56,7 +56,7 @@ Läs:\
 
 **Föreläsning 8**\
 Innehåll: Samband mellan variabler, kovarians, korrelation, kausalitet, introduktion till regression.\
-Material: [F8])\
+Material: [F8](/misc/F8.pdf)\
 Läs: Introduction to Modern Statistics (IMS) kap 7.\
 
 **Föreläsning 9**\
