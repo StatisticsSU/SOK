@@ -61,7 +61,7 @@ Läs: Introduction to Modern Statistics (IMS) kap 7.\
 
 **Föreläsning 9**\
 Innehåll: Regression, prediktion, inferens.\
-Material: [F9]\
+Material: [F9](/misc/F9.pdf)\
 Läs:
 
 **Föreläsning 10**\
