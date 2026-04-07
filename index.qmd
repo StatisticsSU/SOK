@@ -7,7 +7,7 @@ format: html
 
 ### Uppdateringar
 
-Kursen startar 23 mars 2026.
+Kursen startade 23 mars 2026.
 Sidan uppdateras kontinuerligt, med föreläsningsbilder, etc.
 
 
