@@ -24,3 +24,4 @@ Innehåll: Inferens: punktskattning, konfidensintervall,\ hypotesprövning, p-v
 
 **Övning 3**\
 Innehåll: Korrelation, regression.\
+[Övning3](/misc/Ovning3.pdf)\
