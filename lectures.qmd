@@ -81,5 +81,4 @@ Läs: Föreläsningsbilder F12\
 
 **Föreläsning 13**\
 Innehåll: Vi går igenom en exempeltenta.\
-Material: [Övningstenta]\
-Material: [Övningstentan med lösningar]\
+Material: [Finns på Athena]\
