@@ -72,7 +72,6 @@ Läs: Introduction to Modern Statistics (IMS) kap 8.1-8.2, 10, 24.6, 25.1-25.2.\
 **Föreläsning 11**\
 Innehåll: Fortsättning datainsamling, fel i undersökningar, kvalitetskriterier, Sveriges officiella statistik.\
 Material: [F11](/misc/F11.pdf)\
-Exempel på officiell statistik: [CSN-exempel](/misc/Kvalitetsdeklaration_CSN_utbetalning_2025-02-05_ver_1.pdf)\
 Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
