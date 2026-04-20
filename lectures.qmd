@@ -76,7 +76,7 @@ Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
 Innehåll: Maskininlärning och AI.\
-Material: [F12]\
+Material: [F12_v1](/misc/F12_v1.pdf)\
 Läs: Föreläsningsbilder F12\
 
 **Föreläsning 13**\
