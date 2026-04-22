@@ -79,6 +79,10 @@ Innehåll: Maskininlärning och AI.\
 Material: [F12](/misc/F12.pdf)\
 Läs: Föreläsningsbilder F12\
 
+Extramaterial (ej kursmaterial):\ [R-kod](/misc/F12_Rkod.txt)\
+(Klistra in koden i ett R-script.)\
+
+
 **Föreläsning 13**\
 Innehåll: Vi går igenom en exempeltenta.\
 Material: [Finns på Athena]\

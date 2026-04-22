@@ -1,0 +1,109 @@
+library("openintro")
+n <- nrow(duke_forest)
+df <- duke_forest
+head(df, 18)
+names(df)
+nrow(df)
+
+df$heating <- as.factor(df$heating)
+df$cooling <- as.factor(df$cooling)
+df$parking <- as.factor(df$parking)
+
+table(df$parking)
+table(df$cooling)
+table(df$heating)
+
+df$parking3 <- ifelse(
+  startsWith(as.character(df$parking), "0 spaces"), "0 spaces",
+  ifelse(
+    startsWith(as.character(df$parking), "Garage"),
+    "Garage",
+    "Other"
+  )
+)
+
+df$parking3 <- factor(df$parking3)
+
+df$heating3 <- ifelse(
+  startsWith(as.character(df$heating), "Forced air"), "Forced air",
+  ifelse(
+    startsWith(as.character(df$heating), "Heat pump"),
+    "Heat pump",
+    "Other"
+  )
+)
+
+df$heating3 <- factor(df$heating3)
+
+
+# train and test sets
+set.seed(107)
+randomrows <- sample(1:n, 20)
+df_train <- df[-randomrows, ]
+df_test <- df[randomrows, ]
+
+### Start here
+names(df)
+summary(df)
+table(df$parking)
+table(df$heating3)
+table(df$parking3)
+
+mod1 <- lm(log(price) ~ bed + bath + area + year_built + heating3 + cooling +
+             parking3 + lot, data = df_train)
+summary(mod1)
+# Adjusted R-squared:  0.4241  
+
+vars <- c("price","bed","bath","area","year_built",
+          "heating","cooling","parking","lot")
+
+missing_row <- which(!complete.cases(df[, vars]))
+df[missing_row, ]
+
+mod2 <- lm(log(price) ~ bed + bath + area + year_built + heating3 + cooling +
+             lot, data = df_train)
+summary(mod2)
+# removed parking3
+# Adjusted R-squared:  0.441  <- improvement 
+
+mod3 <- lm(log(price) ~ bath + area + year_built + heating3 + cooling +
+             lot, data = df_train)
+summary(mod3)
+# removed bed
+# Adjusted R-squared:  0.4491 <- improvement
+
+mod4 <- lm(log(price) ~ area + year_built + heating3 + cooling +
+             lot, data = df_train)
+summary(mod4)
+
+# remove bath
+# Adjusted R-squared:  0.439  <- worse
+
+mod5 <- lm(log(price) ~ bath + area + heating3 + cooling +
+             lot, data = df_train)
+summary(mod5)
+# put back bath, remove year_built
+# Adjusted R-squared:  0.4474 <- worse than model 3
+
+mod6 <- lm(log(price) ~ bath + area + year_built + cooling +
+             lot, data = df_train)
+summary(mod6)
+# put back year_built, remove heating3
+# Adjusted R-squared:  0.4273 <- worse than model 3
+
+
+# Vi mäter det genomsnittliga felet med den "bästa" modellen, mod3
+prediction3 <- predict(mod3, newdata = df_test)
+errors3 <- exp(prediction3)-df_test$price
+mean(sqrt(errors3^2))
+
+# Vi jämför med den största modellen med flest förklaringsvariabler, mod1
+prediction1 <- predict(mod1, newdata = df_test)
+errors1 <- exp(prediction1)-df_test$price
+mean(sqrt(errors1^2))
+# Slumpen påverkar resultatet mycket när vi bara har 20 hus i testing set
+# Men i detta fall så ger den modell som vi nått via Backward elimination
+# mindre prediktionsfel i genomsnitt
+# Vi säger att mod3 generaliserar bättre än mod1
+mean(sqrt(errors3^2))
+mean(sqrt(errors1^2))
