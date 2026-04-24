@@ -75,9 +75,9 @@ Material: [F11](/misc/F11.pdf)\
 Läs: Föreläsningsbilder F11\
 
 **Föreläsning 12**\
-Innehåll: Maskininlärning och AI.\
+Innehåll: Maskininlärning och AI\
 Material: [F12](/misc/F12.pdf)\
-Läs: Föreläsningsbilder F12\
+(Kommer inte på tentan.)\
 
 Extramaterial (ej kursmaterial):\ [R-kod](/misc/F12_Rkod.txt)\
 (Klistra in koden i ett R-script.)\
